@@ -26,5 +26,9 @@ node main.js yourfile.umz
 
 ## Browser
 
-To run it in the browser just open the **index.html** file.
+To run it in the browser use something like browser-sync.
+Navigate to the project directory and run:
+```
+browser-sync start --server
+```
 You can run the embedded SANDmark or UMIX program.
