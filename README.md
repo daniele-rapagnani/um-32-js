@@ -8,7 +8,7 @@ was the focus of the 2006 ICFP Programming contest.
 http://boundvariable.org/task.shtml)
 
 On my machine this emulator takes about 2.2 times longer
-to complete the sandMARK benchmark than my C implementation
+to complete the SANDmark benchmark than my C implementation
 (around 2:43 min).
 
 # How to run
